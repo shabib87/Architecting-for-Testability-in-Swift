@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "5496007A-5C5E-4305-83EF-EA3D732D1308",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:SimpleWeather.xcodeproj",
+      "identifier" : "C5BEDDD92DDC270600DB135E",
+      "name" : "SimpleWeather"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:SimpleWeather.xcodeproj",
+        "identifier" : "C5BEDDE62DDC270700DB135E",
+        "name" : "SimpleWeatherTests"
+      }
+    }
+  ],
+  "version" : 1
+}
