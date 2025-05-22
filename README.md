@@ -205,7 +205,7 @@ To run the tests:
 ```bash
 # From Xcode: Product > Test or ⌘U
 # From command line:
-xcodebuild test -scheme SimpleWeather -destination 'platform=iOS Simulator,name=iPhone 15'
+xcodebuild test -scheme SimpleWeather -destination 'platform=iOS Simulator,name=iPhone 16'
 ```
 
 ---
@@ -223,8 +223,3 @@ The demo shows the clean UI and weather fetching functionality in action, highli
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Built by **CodeWithShabib**
-🔗 [www.codewithshabib.com](https://www.codewithshabib.com)
