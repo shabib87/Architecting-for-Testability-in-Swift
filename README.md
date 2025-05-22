@@ -19,7 +19,23 @@ This project exists to:
 
 ## 📝 Related Blog Post
 
-This demo project accompanies the blog post **"Architecting for Testability: Swift Testing with Mockable and Spyable"** - [Read the full article](https://www.codewithshabib.com/architecting-for-testability).
+This demo project is designed to complement the comprehensive blog post **"Architecting for Testability in Swift: A Deep Dive into Mockable, Spyable, and the New Swift Testing Framework"** - [Read the full article](https://www.codewithshabib.com/architecting-for-testability-in-swift-with-mockable-spyable-and-swift-testing-framework/).
+
+The blog post provides:
+* Detailed explanations of testing principles and strategies
+* Cross-platform testing ecosystem analysis
+* Organizational testing strategy guidance
+* Future evolution of Swift testing
+* Real-world examples and best practices
+
+While this project serves as a practical implementation of those concepts, demonstrating:
+* Clean Architecture in action
+* Test double spectrum implementation
+* SwiftUI preview strategies
+* Unit testing patterns
+* Integration testing approaches
+
+Together, they provide a complete learning resource for modern Swift testing.
 
 ---
 
